@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @sachin121103
-- 👀 I’m interested in Programming and Engineering
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me: sachin.prabhu.ram12@gmail.com
+- 👋 Hi, I’m Sachin Prabhu Ram
+ - 👀 I’m interested in programming and I am doing my best to learn programming languages
+ - 🌱 I’m currently learning Python!
 
 <!---
 sachin121103/sachin121103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Sachin
 
-📍 Stockholm, Sweden
-🎓 ICT student @KTH Royal Institute of Technologt
+📍 Stockholm, Sweden    
+🎓 ICT student @KTH Royal Institute of Technology  
 🛠️ Exploring systems, algorithms, and robotics.    
 📚 Currently learning: AI/ML & DL, Data Mining, Computer Hardware Engineering.    
 🏎️ Member of KTH Formula Student - Driverless Team: Using C++, ROS and Docker

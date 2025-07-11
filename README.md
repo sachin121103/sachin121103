@@ -1,19 +1,21 @@
 # 👋 Hey, I'm Sachin
 
 🎓 ICT student @KTH  
-🛠️ Exploring systems, algorithms, and robotics  
-📚 Currently learning: AI/ML & DL, Data Mining, Computer Hardware Engineering
+🛠️ Exploring systems, algorithms, and robotics.    
+📚 Currently learning: AI/ML & DL, Data Mining, Computer Hardware Engineering.    
 🏎️ Member of KTH Formula Student - Driverless Team: Using C++, ROS and Docker
 ---
 
 ### 🧠 About Me
 
 I'm a tech student passionate about learning how systems work — from code to circuits to control.  
+
 Right now, I'm focused on sharpening my programming and math foundations while contributing to the Driverless team at Formula Student.
 
 
 💬 I'm always happy to connect with others in tech!
-🧠 [LinkedIn]: https://www.linkedin.com/in/sachin-prabhu-ram/
+
+### 🧠 [LinkedIn]: https://www.linkedin.com/in/sachin-prabhu-ram/
 
 ---
 
